@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrián Ortiz</h1>
+<h1 align="center">Hi, I'm Adrián Ortiz</h1>
 <h3 align="center">I'm a FullStack developer focused on Java and SpringBoot !</h3>
 
 - 🌱 I’m currently learning **Django, Flask, Pandas, Kafka**
