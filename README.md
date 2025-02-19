@@ -1,38 +1,110 @@
-<h1 align="center">Hi, I'm Adrián Ortiz</h1>
-<h3 align="center">I'm a FullStack developer focused on Java and SpringBoot !</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adrian-ortiz0/Adrian-ortiz0/main/assets/banner.png" alt="Adrian Ortiz Banner">
+  
+  [![Visitors](https://komarev.com/ghpvc/?username=Adrian-ortiz0&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Adrian-ortiz0)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-ustariz-a8618b29b/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dxniel7328@gmail.com)
+  [![GitHub Followers](https://img.shields.io/github/followers/Adrian-ortiz0?label=Follow&style=social)](https://github.com/Adrian-ortiz0)
 
-- 🌱 I’m currently learning **Django, Flask, Pandas, Kafka**
+  <h2>🚀 Full Stack Developer & Cloud Enthusiast</h2>
+  <p>Building scalable solutions with modern technologies | Passionate about clean architecture and DevOps practices</p>
+</div>
 
-- 📫 How to reach me **dxniel7328@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adrian-ustariz-a8618b29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian ustariz" height="30" width="40" /></a>
+### 🛠️ Tech Stack
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+<details>
+<summary><b>Ledrian - Social Network Platform</b> 🔗</summary>
+  
+  - Modern social media platform with real-time interactions
+  - Features: User authentication, post creation, comments system, notifications
+  - Tech Stack: React, Spring Boot, PostgreSQL, AWS EC2, Docker
+  - [Explore the docs »](https://github.com/Adrian-ortiz0/ledrian)
+</details>
+
+<details>
+<summary><b>SpringBox - Cloud Management System</b> ☁️</summary>
+  
+  - Enterprise-level cloud resource management solution
+  - Features: Microservices architecture, CI/CD pipeline, Kubernetes orchestration
+  - Tech Stack: Spring Cloud, Azure, Kubernetes, Python, .NET Core
+  - [View repository »](https://github.com/Adrian-ortiz0/springbox)
+</details>
+
+<details>
+<summary><b>Copetran System - Transportation Management</b> 🚌</summary>
+  
+  - Comprehensive transportation management system for Colombian enterprise
+  - Features: Ticket management, fleet tracking, financial reporting
+  - Tech Stack: C#, ASP.NET, MySQL, Docker, Azure Functions
+  - [Project Demo »](https://github.com/Adrian-ortiz0/copetran-system)
+</details>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-ortiz0&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-ortiz0&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-ortiz0&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrian-ustariz-a8618b29b/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
+  </a>
+  <a href="mailto:dxniel7328@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="50"/>
+  </a>
+  <a href="https://github.com/Adrian-ortiz0">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="50"/>
+  </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="center">
+  <form action="https://formspree.io/f/xoqgvkjk" method="POST">
+    <input type="hidden" name="_subject" value="Contact request from GitHub profile" />
+    <input type="email" name="_replyto" placeholder="Your email" required>
+    <textarea name="message" placeholder="Your message" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+</div>
 
-### FrontEnd Skills
+---
 
-<br>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/></a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a>
-
-### BackEnd Skills
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-
-### DataBase Skills
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=Adrian-ortiz0&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <i>⚡️ "First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
