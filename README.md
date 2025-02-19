@@ -49,8 +49,8 @@
   <ul>
     <li>Modern social media platform with real-time interactions</li>
     <li>Features: User authentication, post creation, comments system, notifications</li>
-    <li>Tech Stack: React, Spring Boot, PostgreSQL, AWS EC2, Docker</li>
-    <li>[Explore the docs »](https://github.com/Adrian-ortiz0/ledrian)</li>
+    <li>Tech Stack: React, Spring Boot, PostgreSQL Spring Security, Docker</li>
+    <li>[Explore the docs »](https://github.com/DLeonardoG/Ledrian)</li>
   </ul>
 </details>
 
@@ -59,8 +59,8 @@
   <ul>
     <li>Enterprise-level cloud resource management solution</li>
     <li>Features: Microservices architecture, CI/CD pipeline, Kubernetes orchestration</li>
-    <li>Tech Stack: Spring Cloud, Azure, Kubernetes, Python, .NET Core</li>
-    <li>[View repository »](https://github.com/Adrian-ortiz0/springbox)</li>
+    <li>Tech Stack: Spring Cloud, Springboot, Spring Security</li>
+    <li>[View repository »](https://github.com/Adrian-ortiz0/frontend_switchbox)</li>
   </ul>
 </details>
 
@@ -69,8 +69,8 @@
   <ul>
     <li>Comprehensive transportation management system for a Colombian enterprise</li>
     <li>Features: Ticket management, fleet tracking, financial reporting</li>
-    <li>Tech Stack: C#, ASP.NET, MySQL, Docker, Azure Functions</li>
-    <li>[Project Demo »](https://github.com/Adrian-ortiz0/copetran-system)</li>
+    <li>Tech Stack: Python, Django, MySQL, Docker</li>
+    <li>[Project Demo »](https://github.com/Adrian-ortiz0/copetran_project)</li>
   </ul>
 </details>
 
