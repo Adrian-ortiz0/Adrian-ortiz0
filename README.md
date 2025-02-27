@@ -22,12 +22,12 @@
 
 **Frontend**  
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=css,html,js,react,materialui,tailwind" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=css,html,js,react,angular,materialui,tailwind" alt="Frontend Technologies"/>
 </p>
 
 **Backend**  
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,django,flask,cs,dotnet" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,django,cs,dotnet" alt="Backend Technologies"/>
 </p>
 
 **Cloud & DevOps**  
