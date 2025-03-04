@@ -2,19 +2,27 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Se ejecuta una vez al día
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Ejecuta la acción todos los días a medianoche
+  workflow_dispatch:  # Permite ejecutarlo manualmente
+
+permissions:
+  contents: write  # Permisos para escribir en la rama 'output'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate the snake animation
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push the animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
